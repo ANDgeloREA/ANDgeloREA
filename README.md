@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @ANDgeloREA</h1>
+<h1 align="center">Hi 👋, I'm ANDgeloREA</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Andrea and I'm a passionate fullstack developer from Italy<br><br>📚 I'm currently learning React.js and Node.js<br><br>👀 I’m interested to learn new skills<br><br>⚡ In my free time I look for new ideas</p>
+<p align="left">My name is Andrea and I'm a passionate fullstack developer from Italy<br><br>📚 I'm currently learning React.js and Node.js<br><br>👀 I’m interested to learn new skills<br><br>⚡ In my free time I look for new ideas<br><br>📫 How to reach me **andgelorea@gmail.com**</p>
 
 ###
 
@@ -26,10 +26,10 @@
   <a href="https://www.instagram.com/andgelorea/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo"  />
   </a>
-  <a href="andgelorea" target="_blank">
+  <a href="https://discord.gg/andgelorea" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo"  />
   </a>
-  <a href="angelorea@gmail.com" target="_blank">
+  <a href="mailto:angelorea@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo"  />
   </a>
 </div>
