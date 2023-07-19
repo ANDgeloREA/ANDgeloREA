@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Andrea and I'm a passionate fullstack developer from Italy<br><br>📚 I'm currently learning React.js and Node.js<br><br>👀 I’m interested to learn new skills<br><br>⚡ In my free time I look for new ideas<br><br>📫 How to reach me **andgelorea@gmail.com**</p>
+<p align="left">My name is Andrea and I'm a passionate fullstack developer from Italy<br><br>📚 I'm currently learning React.js and Node.js<br><br>👀 I’m interested to learn new skills<br><br>⚡ In my free time I look for new ideas</p>
 
 ###
 
